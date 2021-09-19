@@ -1,0 +1,152 @@
+body{
+    font-family: "Oswald";
+    text-align: center;
+}
+
+.container-fluid{
+    padding:  3% 15%;
+    
+}
+h2{
+    color: #fff;;
+}
+h3{
+    font-size: 1.25rem;
+    font-weight: 900;
+    color: #a59678;
+}
+
+p{
+    color: #8f8f8f;
+    font-weight:normal;  
+}
+/* Headings */
+.big-heading{
+    font-size: 90px;
+    line-height: 0.85;
+    font-weight: 700;
+}
+.paragraph{
+    padding: 7% 7% ;
+}
+.sign-up{
+    border-radius: 100px;
+}
+.heading-separate{
+    color:#a59678 ;
+}
+.section-heading{
+    font-weight: 700;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+/*Sections*/
+.colored-section{
+    background-color:#3b4050 ;   
+    color: #fff;
+}
+.white-section{
+    background-color: #fff;
+}
+
+
+/* Navigation Bar */
+
+.navbar{
+    padding-bottom: 4.5rem;
+}
+
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.nav-item{
+    padding: 0 18px;
+    
+}
+
+.nav-link{
+    font-size: 1.2rem;
+    font-family: "Montserrat-Light";
+}
+
+/* Download-button */
+.download-button{
+    margin: 5% 3% 5% 0;
+    border-radius: 100px;
+}
+
+/* TITLE SECTION*/
+#title{
+    text-align: left;
+}
+
+
+/* features section*/
+
+#features{
+    padding: 7% 15%; 
+    background-color: gainsboro;
+}
+.features-title{
+    font-size: 1.25rem;
+    font-weight: 900;
+}
+.feature-box{
+    padding: 5%;
+}
+
+
+
+/*so-hard section*/
+.so-hard{
+    background-color: #fff;
+    text-align: left;
+    padding: 7% 7%;
+
+}
+.card{
+    background-color: #2e323f;
+    padding: 7% 7%;
+}
+.pricing-column{
+    text-align: center;
+    padding: 3% 3%;
+}
+ 
+
+
+
+/* SCRATCHINNG THE SURFACE */
+#scratch{
+    background-color: #2e323f;
+    padding: 5% 7%;
+}
+.surface{
+    padding: 3% 0%;
+}
+.for-alignment{
+    text-align: left;
+}
+.for-padding{
+    padding: 5% 0%;
+}
+
+#footer{
+    padding: 7% 15%;
+}
+
+.social-icon{
+    margin: 20px 10px;
+}
+
+@media (max-width: 1150px) {
+    #title{
+        text-align: center;
+    }
+
+}
+
